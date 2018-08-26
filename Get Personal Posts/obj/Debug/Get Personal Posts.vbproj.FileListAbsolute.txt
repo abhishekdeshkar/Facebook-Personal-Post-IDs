@@ -1,0 +1,11 @@
+C:\VB Project\Get Personal Posts\Get Personal Posts\bin\Debug\Get Personal Posts.exe
+C:\VB Project\Get Personal Posts\Get Personal Posts\bin\Debug\Get Personal Posts.pdb
+C:\VB Project\Get Personal Posts\Get Personal Posts\bin\Debug\Get Personal Posts.xml
+C:\VB Project\Get Personal Posts\Get Personal Posts\obj\Debug\Get Personal Posts.vbprojResolveAssemblyReference.cache
+C:\VB Project\Get Personal Posts\Get Personal Posts\obj\Debug\Get_Personal_Posts.Resources.resources
+C:\VB Project\Get Personal Posts\Get Personal Posts\obj\Debug\Get Personal Posts.vbproj.GenerateResource.Cache
+C:\VB Project\Get Personal Posts\Get Personal Posts\obj\Debug\Get Personal Posts.vbproj.CoreCompileInputs.cache
+C:\VB Project\Get Personal Posts\Get Personal Posts\obj\Debug\Get Personal Posts.exe
+C:\VB Project\Get Personal Posts\Get Personal Posts\obj\Debug\Get Personal Posts.xml
+C:\VB Project\Get Personal Posts\Get Personal Posts\obj\Debug\Get Personal Posts.pdb
+C:\VB Project\Get Personal Posts\Get Personal Posts\obj\Debug\Get_Personal_Posts.FacebookSpam.resources
